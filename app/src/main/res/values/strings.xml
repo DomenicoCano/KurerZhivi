@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Курьер Живи</string>
+    <string name="widget_description">Балл спроса, текущая смена и кнопка «+ заказ»</string>
+</resources>
